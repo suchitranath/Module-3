@@ -18,4 +18,4 @@ print(sum(L)))
 ![image](https://github.com/user-attachments/assets/f2643251-0545-4f86-8fdb-7eb6e2106dec)
 
 ## Result
-![image](https://github.com/user-attachments/assets/a8b4a192-9a6c-4281-a9bc-f954e866c9c0)
+Thus, the program has been successfully executed.
